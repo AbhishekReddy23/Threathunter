@@ -1,3 +1,3 @@
 THREAD HUNTER 
 
-Hi I am posting intresting facts about cybersecurity in this repo  
+Hi I am posting intresting facts in cybersecurity in this repo  
